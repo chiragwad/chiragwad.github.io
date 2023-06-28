@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>philosophy on Chirag&#39;s Blog</title>
+    <link>https://chiragwad.github.io/tags/philosophy/</link>
+    <description>Recent content in philosophy on Chirag&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Mon, 05 Jun 2023 16:39:12 +0530</lastBuildDate><atom:link href="https://chiragwad.github.io/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lorem Ipsum</title>
+      <link>https://chiragwad.github.io/posts/2023/06/lorem-ipsum/</link>
+      <pubDate>Mon, 05 Jun 2023 16:39:12 +0530</pubDate>
+      
+      <guid>https://chiragwad.github.io/posts/2023/06/lorem-ipsum/</guid>
+      <description>&amp;ldquo;There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain&amp;hellip;&amp;rdquo; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nulla ex, commodo in elementum eget, condimentum id mi. Proin vitae scelerisque quam. Ut non aliquam tellus. Maecenas augue ex, tincidunt et nisi eget, vehicula laoreet lectus. Pellentesque sit amet iaculis dolor. Quisque sagittis metus enim, non consectetur nunc porttitor eget.</description>
+    </item>
+    
+  </channel>
+</rss>

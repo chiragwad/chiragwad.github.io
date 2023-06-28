@@ -1,0 +1,49 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Chirag&#39;s Blog</title>
+        <link>https://chiragwad.github.io/posts/</link>
+        <description>Recent content in Posts on Chirag&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+        <lastBuildDate>Mon, 05 Jun 2023 16:39:12 +0530</lastBuildDate>
+        <atom:link href="https://chiragwad.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Lorem Ipsum</title>
+            <link>https://chiragwad.github.io/posts/2023/06/lorem-ipsum/</link>
+            <pubDate>Mon, 05 Jun 2023 16:39:12 +0530</pubDate>
+            
+            <guid>https://chiragwad.github.io/posts/2023/06/lorem-ipsum/</guid>
+            <description>&amp;ldquo;There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain&amp;hellip;&amp;rdquo; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nulla ex, commodo in elementum eget, condimentum id mi. Proin vitae scelerisque quam. Ut non aliquam tellus. Maecenas augue ex, tincidunt et nisi eget, vehicula laoreet lectus. Pellentesque sit amet iaculis dolor. Quisque sagittis metus enim, non consectetur nunc porttitor eget.</description>
+            <content type="html"><![CDATA[<hr>
+<h2 id="there-is-no-one-who-loves-pain-itself-who-seeks-after-it-and-wants-to-have-it-simply-because-it-is-pain">&ldquo;There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain&hellip;&rdquo;</h2>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nulla ex, commodo in elementum eget, condimentum id mi. Proin vitae scelerisque quam. Ut non aliquam tellus. Maecenas augue ex, tincidunt et nisi eget, vehicula laoreet lectus. Pellentesque sit amet iaculis dolor. Quisque sagittis metus enim, non consectetur nunc porttitor eget. Duis posuere risus pharetra, ornare eros in, dapibus leo. Quisque eu ultrices sapien, sed malesuada felis. Sed a ante nec ex fringilla venenatis ut eget enim. Pellentesque vestibulum sit amet magna eget rutrum. Proin pellentesque in tellus ut malesuada. Sed placerat est nec malesuada finibus.</p>
+<p>Vestibulum convallis, mi eget ultricies rhoncus, urna enim sollicitudin eros, vel eleifend tellus nibh et eros. Proin fringilla lectus orci, eu elementum eros egestas id. Nulla accumsan elementum rutrum. Donec vitae hendrerit nisi. Curabitur at sapien quis elit facilisis commodo. Aenean viverra sem ornare metus facilisis suscipit. Aliquam sed elit ac sapien gravida pharetra. Duis non diam sed ex commodo eleifend. Aenean vel sapien elit. Donec efficitur, lorem eget consequat hendrerit, massa ligula tincidunt enim, ac vehicula ex massa at sem. Morbi nec mattis ligula. Mauris accumsan sed mi et ultrices. Proin turpis elit, efficitur feugiat porta a, dignissim sit amet arcu. Duis suscipit mi orci, in volutpat urna blandit nec. Proin aliquet velit vel mi convallis semper. Vestibulum porttitor ipsum sem, non lacinia nulla rhoncus in.</p>
+<p>Sed elementum purus nibh, sed tempor mauris eleifend eget. Morbi interdum ipsum vitae justo vehicula tempus. Mauris tincidunt ex sed orci mollis, vel placerat lectus venenatis. Praesent purus augue, consequat non luctus ac, rhoncus posuere orci. Mauris vitae nisi id eros auctor efficitur. Fusce euismod, ex vitae tincidunt viverra, orci sapien venenatis massa, a ultricies sem lacus a neque. Fusce sed consequat arcu, sit amet commodo ante. Nam facilisis bibendum mauris vel semper. Curabitur in tellus rhoncus, auctor ex ac, elementum orci.</p>
+<p>Praesent luctus, urna ut vehicula blandit, felis libero congue quam, a fringilla mi felis non augue. Etiam mollis, mi ac porta euismod, dui urna auctor lacus, in aliquam velit nisi at leo. Morbi in bibendum risus. In hac habitasse platea dictumst. Nam facilisis porttitor purus non laoreet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum risus nibh, commodo ac nulla faucibus, imperdiet molestie eros. Pellentesque eu ultrices leo, sagittis convallis ex. Vivamus eleifend orci id ultrices scelerisque. Suspendisse vestibulum lacus ac ipsum venenatis efficitur.</p>
+<p>Donec porttitor convallis ex, eget tristique lorem mattis nec. Nullam vitae metus eget massa facilisis ornare. Nunc rhoncus elementum mi eget efficitur. Morbi eget tristique urna. Vivamus libero odio, placerat at arcu sed, mattis tempor leo. Quisque in est viverra, molestie sapien aliquam, volutpat eros. Donec fringilla, augue in pulvinar vestibulum, augue lorem congue metus, non gravida mi quam ut arcu. Proin urna dolor, rutrum et lacinia a, sagittis et dolor. Etiam congue nunc sem, at porttitor tellus ornare congue. Nullam tincidunt, tellus eu venenatis vulputate, lorem dui ultrices diam, a luctus tellus dui vitae felis. Duis porttitor est eget sem ultrices iaculis. Mauris pellentesque interdum mi, mollis sollicitudin lectus porta at. Curabitur quis elit facilisis, dignissim mauris nec, congue purus. Quisque et elit congue, aliquet libero ac, luctus lacus. Cras vel mauris vitae erat laoreet commodo eget a nunc. Maecenas iaculis mauris purus, eu ultrices libero auctor eu.</p>
+]]></content>
+        </item>
+        
+        <item>
+            <title>Second Post</title>
+            <link>https://chiragwad.github.io/posts/2022/06/second-post/</link>
+            <pubDate>Tue, 07 Jun 2022 16:58:16 +0530</pubDate>
+            
+            <guid>https://chiragwad.github.io/posts/2022/06/second-post/</guid>
+            <description>Code #include &amp;lt;iostream&amp;gt; using namespace std; int main() { cout &amp;lt;&amp;lt; &amp;#34;Hello, World!&amp;#34; return 0; } </description>
+            <content type="html"><![CDATA[<h1 id="code">Code</h1>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-c++" data-lang="c++"><span style="display:flex;"><span>	<span style="color:#75715e">#include</span> <span style="color:#75715e">&lt;iostream&gt;</span><span style="color:#75715e">
+</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>	<span style="color:#66d9ef">using</span> <span style="color:#66d9ef">namespace</span> std;
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">int</span> <span style="color:#a6e22e">main</span>() {
+</span></span><span style="display:flex;"><span>		cout <span style="color:#f92672">&lt;&lt;</span> <span style="color:#e6db74">&#34;Hello, World!&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span>		<span style="color:#66d9ef">return</span> <span style="color:#ae81ff">0</span>;
+</span></span><span style="display:flex;"><span>	}
+</span></span></code></pre></div>]]></content>
+        </item>
+        
+    </channel>
+</rss>

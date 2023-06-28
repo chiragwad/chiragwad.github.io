@@ -22,6 +22,6 @@ Contact information is provided in the résumé.
 ---
 
 ## Resume
-[Résumé](<!-- /Resume(2023).pdf  -->)
+[Résumé](null)
 
 

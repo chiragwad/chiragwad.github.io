@@ -162,9 +162,9 @@ disableHugoGeneratorInject = false
   #
    [params.portrait]
      # image.jpg is stored in static folder
-     # path     = "profile.jpg"
-     # alt      = "Portrait"
-     # maxWidth = "200px"
+      path     = "images/catboss.jpg"
+      alt      = "Portrait"
+      maxWidth = "200px"
 
   # Social icons
   # [[params.social]]

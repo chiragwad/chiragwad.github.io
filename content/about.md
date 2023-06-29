@@ -17,12 +17,10 @@ I am Chirag Wadhwa, a deliberate person tackling the world as a system of interc
 ---
 
 ## Contact
-Contact information is provided in the résumé.
+* [LinkedIn](https://www.linkedin.com/in/chirag-wadhwa-450b7a255/)
+* [Telegram](https://t.me/chiragwad)
 
----
 
-## Resume
-[Résumé](null)
 
 
 

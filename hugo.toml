@@ -167,9 +167,9 @@ disableHugoGeneratorInject = false
       maxWidth = "200px"
 
   # Social icons
-  # [[params.social]]
-  #   name = "twitter"
-  #   url  = "https://twitter.com/"
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/Chiragwad"
 
   # [[params.social]]
   #   name = "email"

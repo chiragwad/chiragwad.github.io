@@ -183,9 +183,13 @@ disableHugoGeneratorInject = false
     name = "linkedin"
     url  = "https://www.linkedin.com/in/chirag-wadhwa-450b7a255/"
 
-   [[params.social]]
-     name = "instagram"
-     url  = "https://www.instagram.com/chiragwad"
+  [[params.social]]
+    name = "instagram"
+    url  = "https://www.instagram.com/chiragwad"
+
+  [[params.social]]
+    name = "telegram"
+    url  = "https://t.me/chiragwad"
 
 [languages]
   [languages.en]

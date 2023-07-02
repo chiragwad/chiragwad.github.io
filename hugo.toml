@@ -161,7 +161,6 @@ disableHugoGeneratorInject = false
   # Uncomment this if you want a portrait on your start page
   #
    [params.portrait]
-     # image.jpg is stored in static folder
       path     = "images/catboss.jpg"
       alt      = "Portrait"
       maxWidth = "200px"
@@ -206,4 +205,8 @@ disableHugoGeneratorInject = false
     identifier = "posts"
     name       = "Posts"
     url        = "posts/"
+  [[menu.main]]
+    identifier = "tags"
+    name       = "Tags"
+    url        = "tags/"
 

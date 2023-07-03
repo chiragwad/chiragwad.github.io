@@ -2,6 +2,7 @@
 title: "Second Post"
 date: 2022-06-07T16:58:16+05:30
 tags: ['programming', 'hugo', 'philosophy']
+toc: false
 ---
 
 # Code

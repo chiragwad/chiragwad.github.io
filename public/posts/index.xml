@@ -6,43 +6,8 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC-ND 4.0&lt;/a&gt;</copyright>
-        <lastBuildDate>Wed, 28 Jun 2023 13:41:54 +0530</lastBuildDate>
+        <lastBuildDate>Mon, 05 Jun 2023 16:39:12 +0530</lastBuildDate>
         <atom:link href="https://chiragwad.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-        
-        <item>
-            <title>Demo</title>
-            <link>https://chiragwad.github.io/posts/2023/06/demo/</link>
-            <pubDate>Wed, 28 Jun 2023 13:41:54 +0530</pubDate>
-            
-            <guid>https://chiragwad.github.io/posts/2023/06/demo/</guid>
-            <description>Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-            <content type="html"><![CDATA[<h1 id="lorem-ipsum">Lorem Ipsum</h1>
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<table>
-<thead>
-<tr>
-<th>Name</th>
-<th>Roll No.</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Chirag</td>
-<td>89</td>
-</tr>
-<tr>
-<td>Vikas</td>
-<td>21</td>
-</tr>
-</tbody>
-</table>
-]]></content>
-        </item>
         
         <item>
             <title>Lorem Ipsum</title>
@@ -58,27 +23,6 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <p>Sed elementum purus nibh, sed tempor mauris eleifend eget. Morbi interdum ipsum vitae justo vehicula tempus. Mauris tincidunt ex sed orci mollis, vel placerat lectus venenatis. Praesent purus augue, consequat non luctus ac, rhoncus posuere orci. Mauris vitae nisi id eros auctor efficitur. Fusce euismod, ex vitae tincidunt viverra, orci sapien venenatis massa, a ultricies sem lacus a neque. Fusce sed consequat arcu, sit amet commodo ante. Nam facilisis bibendum mauris vel semper. Curabitur in tellus rhoncus, auctor ex ac, elementum orci.</p>
 <p>Praesent luctus, urna ut vehicula blandit, felis libero congue quam, a fringilla mi felis non augue. Etiam mollis, mi ac porta euismod, dui urna auctor lacus, in aliquam velit nisi at leo. Morbi in bibendum risus. In hac habitasse platea dictumst. Nam facilisis porttitor purus non laoreet. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum risus nibh, commodo ac nulla faucibus, imperdiet molestie eros. Pellentesque eu ultrices leo, sagittis convallis ex. Vivamus eleifend orci id ultrices scelerisque. Suspendisse vestibulum lacus ac ipsum venenatis efficitur.</p>
 <p>Donec porttitor convallis ex, eget tristique lorem mattis nec. Nullam vitae metus eget massa facilisis ornare. Nunc rhoncus elementum mi eget efficitur. Morbi eget tristique urna. Vivamus libero odio, placerat at arcu sed, mattis tempor leo. Quisque in est viverra, molestie sapien aliquam, volutpat eros. Donec fringilla, augue in pulvinar vestibulum, augue lorem congue metus, non gravida mi quam ut arcu. Proin urna dolor, rutrum et lacinia a, sagittis et dolor. Etiam congue nunc sem, at porttitor tellus ornare congue. Nullam tincidunt, tellus eu venenatis vulputate, lorem dui ultrices diam, a luctus tellus dui vitae felis. Duis porttitor est eget sem ultrices iaculis. Mauris pellentesque interdum mi, mollis sollicitudin lectus porta at. Curabitur quis elit facilisis, dignissim mauris nec, congue purus. Quisque et elit congue, aliquet libero ac, luctus lacus. Cras vel mauris vitae erat laoreet commodo eget a nunc. Maecenas iaculis mauris purus, eu ultrices libero auctor eu.</p>
-]]></content>
-        </item>
-        
-        <item>
-            <title>Second Post</title>
-            <link>https://chiragwad.github.io/posts/2022/06/second-post/</link>
-            <pubDate>Tue, 07 Jun 2022 16:58:16 +0530</pubDate>
-            
-            <guid>https://chiragwad.github.io/posts/2022/06/second-post/</guid>
-            <description>Code #include &amp;lt;iostream&amp;gt; using namespace std; int main() { cout &amp;lt;&amp;lt; &amp;#34;Hello, World!&amp;#34; return 0; } Image </description>
-            <content type="html"><![CDATA[<h1 id="code">Code</h1>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-c++" data-lang="c++"><span style="display:flex;"><span>	<span style="color:#75715e">#include</span> <span style="color:#75715e">&lt;iostream&gt;</span><span style="color:#75715e">
-</span></span></span><span style="display:flex;"><span><span style="color:#75715e"></span>	<span style="color:#66d9ef">using</span> <span style="color:#66d9ef">namespace</span> std;
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>	<span style="color:#66d9ef">int</span> <span style="color:#a6e22e">main</span>() {
-</span></span><span style="display:flex;"><span>		cout <span style="color:#f92672">&lt;&lt;</span> <span style="color:#e6db74">&#34;Hello, World!&#34;</span>
-</span></span><span style="display:flex;"><span>
-</span></span><span style="display:flex;"><span>		<span style="color:#66d9ef">return</span> <span style="color:#ae81ff">0</span>;
-</span></span><span style="display:flex;"><span>	}
-</span></span></code></pre></div><h1 id="image">Image</h1>
-<p><img src="/images/helloworld.png" alt="hello world"></p>
 ]]></content>
         </item>
         

@@ -7,16 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>&lt;a href=&#34;http://creativecommons.org/licenses/by-nc-nd/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC-ND 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 28 Jun 2023 13:41:54 +0530</lastBuildDate><atom:link href="https://chiragwad.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Demo</title>
-      <link>https://chiragwad.github.io/posts/2023/06/demo/</link>
-      <pubDate>Wed, 28 Jun 2023 13:41:54 +0530</pubDate>
-      
-      <guid>https://chiragwad.github.io/posts/2023/06/demo/</guid>
-      <description>Lorem Ipsum Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
+    <lastBuildDate>Mon, 05 Jun 2023 16:39:12 +0530</lastBuildDate><atom:link href="https://chiragwad.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://chiragwad.github.io/about/</link>
@@ -34,15 +25,6 @@ The Author I am Chirag Wadhwa, a deliberate person tackling the world as a syste
       
       <guid>https://chiragwad.github.io/posts/2023/06/lorem-ipsum/</guid>
       <description>&amp;ldquo;There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain&amp;hellip;&amp;rdquo; Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nulla ex, commodo in elementum eget, condimentum id mi. Proin vitae scelerisque quam. Ut non aliquam tellus. Maecenas augue ex, tincidunt et nisi eget, vehicula laoreet lectus. Pellentesque sit amet iaculis dolor. Quisque sagittis metus enim, non consectetur nunc porttitor eget.</description>
-    </item>
-    
-    <item>
-      <title>Second Post</title>
-      <link>https://chiragwad.github.io/posts/2022/06/second-post/</link>
-      <pubDate>Tue, 07 Jun 2022 16:58:16 +0530</pubDate>
-      
-      <guid>https://chiragwad.github.io/posts/2022/06/second-post/</guid>
-      <description>Code #include &amp;lt;iostream&amp;gt; using namespace std; int main() { cout &amp;lt;&amp;lt; &amp;#34;Hello, World!&amp;#34; return 0; } Image </description>
     </item>
     
   </channel>

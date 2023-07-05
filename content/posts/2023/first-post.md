@@ -1,7 +1,19 @@
 ---
 title: Lorem Ipsum
+linktitle: This is a linktitle
 date: 2023-06-05T16:39:12+05:30
 tags: ['philosophy']
+type: 
+- post
+- spost
+description: "This is a description"
+categoried: ['Devleopment', 'abc']
+series: ['Hugo 101']
+weight: 10
+author:
+ name: "Chirag Wadhwa"
+aliases:
+- /blog/Lorem-Ipsum/
 ---
 
 ---

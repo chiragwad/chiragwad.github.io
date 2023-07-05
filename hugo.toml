@@ -56,7 +56,7 @@ disableHugoGeneratorInject = false
   # Metadata mostly used in document's head
   # 
   description = "Chirag's Blog"
-  keywords = ""
+  keywords = ["Blog", "Website", "Chirag", "Chirag Wadhwa"]
   images = [""]
 
   # Home subtitle of the index page.
@@ -161,9 +161,9 @@ disableHugoGeneratorInject = false
   # Uncomment this if you want a portrait on your start page
   #
    [params.portrait]
-      path     = "images/catboss.jpg"
+      path     = "images/circle-cat.png"
       alt      = "Portrait"
-      maxWidth = "200px"
+      maxWidth = "250px"
 
   # Social icons
   [[params.social]]
